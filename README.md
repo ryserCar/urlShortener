@@ -13,3 +13,7 @@ To run this project you need to:
 3. Run ```mvn install``` standing in Project folder, this will generate a jar of the project inside Target folder
 
 4. Run ```java -jar pathToJar``` on command line
+
+5. You can use postman and do a post to localhost:8080?urlToShorten
+
+6. Then you can insert the shortend url in the browser and it will be redirected to the original url
